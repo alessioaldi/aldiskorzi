@@ -1,3 +1,10 @@
 # aldiskorzi
-ramadan giorno 1
+Coding sociale
+==============
 
+progetto realizzato da
+
+*   aldinucci
+*   skvortsov
+
+spero le ti garbi ;)
